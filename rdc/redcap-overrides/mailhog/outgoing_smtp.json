@@ -1,0 +1,10 @@
+{
+  "server name": {
+    "name": "UR Mail",
+    "host": "smtp.mailtrap.io",
+    "port": "587",
+    "username": "efb8103b51318c",
+    "password": "608eb52f8517ca",
+    "mechanism": "PLAIN"
+  }
+}
